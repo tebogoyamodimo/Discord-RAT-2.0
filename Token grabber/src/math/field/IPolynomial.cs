@@ -13,3 +13,4 @@ namespace Org.BouncyCastle.Math.Field
         //Term[] GetNonZeroTerms();
     }
 }
+
