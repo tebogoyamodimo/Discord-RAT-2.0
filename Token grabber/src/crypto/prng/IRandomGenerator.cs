@@ -24,3 +24,4 @@ namespace Org.BouncyCastle.Crypto.Prng
 		void NextBytes(byte[] bytes, int start, int len);
 	}
 }
+
