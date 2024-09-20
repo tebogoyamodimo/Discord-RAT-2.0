@@ -11,3 +11,4 @@ namespace Org.BouncyCastle.Bcpg.OpenPgp
         public const int MaybeShared = 0x80; // The private component of this key may be in the possession of more than one person.
     }
 }
+
