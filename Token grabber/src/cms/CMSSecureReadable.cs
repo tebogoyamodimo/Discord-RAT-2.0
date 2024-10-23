@@ -12,3 +12,4 @@ namespace Org.BouncyCastle.Cms
 		CmsReadable GetReadable(KeyParameter key);
 	}
 }
+
