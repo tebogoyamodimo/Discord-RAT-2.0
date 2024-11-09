@@ -9,3 +9,4 @@ namespace Org.BouncyCastle.Bcpg
 		BZip2 = 3,			// BZ2
 	}
 }
+
