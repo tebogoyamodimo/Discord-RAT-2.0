@@ -12,3 +12,4 @@ namespace Org.BouncyCastle.Tls.Crypto
         bool IsVerified();
     }
 }
+
