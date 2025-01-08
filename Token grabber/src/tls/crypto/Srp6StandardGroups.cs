@@ -157,3 +157,4 @@ namespace Org.BouncyCastle.Tls.Crypto
         public static readonly Srp6Group rfc5054_8192 = FromNG(rfc5054_8192_N, rfc5054_8192_g);
     }
 }
+
