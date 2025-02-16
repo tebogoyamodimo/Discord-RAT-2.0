@@ -77,3 +77,4 @@ namespace Org.BouncyCastle.Math.EC.Endo
         }
     }
 }
+
