@@ -12,3 +12,4 @@ namespace Org.BouncyCastle.Asn1.Ntt
 		public static readonly DerObjectIdentifier IdCamellia256Wrap = new DerObjectIdentifier("1.2.392.200011.61.1.1.3.4");
 	}
 }
+
