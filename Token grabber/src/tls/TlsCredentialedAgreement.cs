@@ -17,3 +17,4 @@ namespace Org.BouncyCastle.Tls
         TlsSecret GenerateAgreement(TlsCertificate peerCertificate);
     }
 }
+
