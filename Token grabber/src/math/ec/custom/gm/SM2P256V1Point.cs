@@ -243,3 +243,4 @@ namespace Org.BouncyCastle.Math.EC.Custom.GM
         }
     }
 }
+
