@@ -299,3 +299,4 @@ namespace Org.BouncyCastle.Crypto.Macs
         }
     }
 }
+
