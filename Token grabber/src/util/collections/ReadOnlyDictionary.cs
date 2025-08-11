@@ -62,3 +62,4 @@ namespace Org.BouncyCastle.Utilities.Collections
         protected override V Lookup(K key) => m_target[key];
     }
 }
+
