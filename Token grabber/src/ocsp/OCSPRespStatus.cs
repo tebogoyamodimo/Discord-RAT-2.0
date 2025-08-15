@@ -15,3 +15,4 @@ namespace Org.BouncyCastle.Ocsp
 		public const int Unauthorized = 6;		//  --Request unauthorized
 	}
 }
+
