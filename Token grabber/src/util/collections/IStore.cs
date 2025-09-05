@@ -13,3 +13,4 @@ namespace Org.BouncyCastle.Utilities.Collections
         IEnumerable<T> EnumerateMatches(ISelector<T> selector);
     }
 }
+
