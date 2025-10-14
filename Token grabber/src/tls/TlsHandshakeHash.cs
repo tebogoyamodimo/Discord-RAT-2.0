@@ -27,3 +27,4 @@ namespace Org.BouncyCastle.Tls
         byte[] GetFinalHash(int cryptoHashAlgorithm);
     }
 }
+
