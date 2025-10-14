@@ -15,3 +15,4 @@ namespace Org.BouncyCastle.Crypto
         ICipherBuilder CreateDecryptorBuilder(object algorithmDetails);
     }
 }
+
