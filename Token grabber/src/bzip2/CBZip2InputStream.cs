@@ -808,3 +808,4 @@ namespace Org.BouncyCastle.Bzip2
         }
     }
 }
+
