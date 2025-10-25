@@ -22,3 +22,4 @@ namespace Org.BouncyCastle.Cms
 		AttributeTable GetAttributes(IDictionary<CmsAttributeTableParameter, object> parameters);
 	}
 }
+
