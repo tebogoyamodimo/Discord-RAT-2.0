@@ -14,3 +14,4 @@ namespace Org.BouncyCastle.Tls
         bool IsResumable { get; }
     }
 }
+
